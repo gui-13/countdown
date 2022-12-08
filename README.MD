@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Tailwind Css
-- JavaScript e JSON
+- JavaScript
 - Vite
 - [Node e NPM](https://nodejs.org/)
 
