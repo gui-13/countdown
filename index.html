@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/rocket.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <title>Countdown</title>
+</head>
+
+<body class="text-white font-sans bg-black">
+  <div class="min-h-screen flex flex-wrap justify-around items-center bg-black">
+    <div class="flex flex-col items-center">
+      <h1 class="text-4xl mb-5 font-bold text-purple-100 uppercase">
+        Ready to launch in...
+      </h1>
+
+      <div id=" timer" class="flex items-center gap-5 flex-wrap">
+        <div class="flex flex-col items-center">
+          <p class="text-xs font-bold text-gray-100 uppercase">Dias</p>
+          <span class="md:text-7xl text-4xl" id="days"></span>
+        </div>
+
+        <span class="md:text-7xl text-4xl">:</span>
+
+        <div class="flex flex-col items-center">
+          <p class="text-xs font-bold text-gray-100 uppercase">Horas</p>
+          <span class="md:text-7xl text-4xl" id="hours"></span>
+        </div>
+
+        <span class="md:text-7xl text-4xl">:</span>
+
+        <div class="flex flex-col items-center">
+          <p class="text-xs font-bold text-gray-100 uppercase">Minutos</p>
+          <span class="md:text-7xl text-4xl" id="minutes"></span>
+        </div>
+
+        <span class="md:text-7xl text45xl">:</span>
+
+        <div class="flex flex-col items-center">
+          <p class="text-xs font-bold text-gray-100 uppercase">Segundos</p>
+          <span class="md:text-7xl text-4xl" id="seconds"></span>
+        </div>
+
+      </div>
+    </div>
+    <img class="p-3" src="/rocket.svg" alt="foguete">
+  </div>
+
+
+
+  <script type="module" src="/main.js"></script>
+</body>
+
+</html>
