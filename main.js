@@ -1,6 +1,6 @@
 import './style.css'
 
-const launch = new Date('December 25, 2022 00:00:00').getTime();
+const launch = new Date('December 25, 2023 00:00:00').getTime();
 
 const missingForLaunch = setInterval(function() {
   const now = new Date().getTime();
