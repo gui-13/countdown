@@ -26,6 +26,9 @@ const missingForLaunch = setInterval(function() {
 
 }, 1000)
 
+const userAgent = window.navigator.userAgent
+console.log(userAgent)
+
 
 
 
