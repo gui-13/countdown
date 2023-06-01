@@ -7,7 +7,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- Tailwind Css
+- Tailwind CSS
 - JavaScript
 - Vite
 - [Node e NPM](https://nodejs.org/)
@@ -18,4 +18,4 @@ Contagem regressiva para lançamento de algo.
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](countdown-gui-13.vercel.app).
+Você pode visualizar o projeto através [DESSE LINK](https://countdown-gui-13.vercel.app).
