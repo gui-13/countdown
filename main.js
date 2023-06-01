@@ -25,9 +25,3 @@ const missingForLaunch = setInterval(function() {
   document.querySelector('#seconds').innerText = seconds
 
 }, 1000)
-
-// TESTE
-
-const userAgent = window.navigator.userAgent
-
-document.querySelector('#test').innerText = userAgent
