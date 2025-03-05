@@ -18,4 +18,4 @@ Contagem regressiva para lançamento de algo.
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://countdown-gui-13.vercel.app).
+Você pode visualizar o projeto através [DESSE LINK](https://countdown-lac-iota.vercel.app/).
